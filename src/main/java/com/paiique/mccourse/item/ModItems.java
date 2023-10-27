@@ -28,6 +28,13 @@ public class ModItems {
     public static final RegistryObject<Item> COAL_SLIVER = ITEMS.register("coal_sliver",
             () -> new CoalSliverItem(new Item.Properties().tab(ModCreativeModeTab.COURSE_TAB)));
 
+    public static final RegistryObject<Item> CARMELLO = ITEMS.register("carmello",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.COURSE_TAB).food(ModFoods.CARMELLO)));
+
+
+
+
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
