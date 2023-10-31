@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": {"model": "mccourse:block/cobalt_ore"}
+    "": { "model": "mccourse:block/cobalt_ore" }
   }
 }

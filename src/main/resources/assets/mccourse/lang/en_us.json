@@ -5,12 +5,39 @@
   "item.mccourse.dowsing_rod": "Dowsing Rod",
   "item.mccourse.coal_sliver": "Coal Sliver",
   "item.mccourse.carmello": "Carmello",
+  "item.mccourse.cobalt_paxel": "Cobalt Paxel",
+
+  "tooltip.mccourse.dowsing_rod": "Press §eSHIFT§r for get information!",
+  "tooltip.mccourse.dowsing_rod.shift": "Right click to find Valuables!",
+
+  "item.mccourse.cobalt_helmet": "Cobalt Helmet",
+  "item.mccourse.cobalt_chestplate": "Cobalt Chestplate",
+  "item.mccourse.cobalt_leggings": "Cobalt Leggings",
+  "item.mccourse.cobalt_boots": "Cobalt Boots",
 
   "block.mccourse.cobalt_block": "Cobalt Block",
   "block.mccourse.cobalt_ore": "Cobalt Ore",
   "block.mccourse.deepslate_cobalt_ore": "Deepslate Cobalt Ore",
   "block.mccourse.raw_cobalt_block": "Raw Cobalt Block",
+  "block.mccourse.cobalt_stairs": "Cobalt Stairs",
+  "block.mccourse.cobalt_slab": "Cobalt Slab",
   "block.mccourse.speedy_block": "Speedy Block",
+  "block.mccourse.cobalt_button": "Cobalt Button",
+  "block.mccourse.cobalt_pressure_plate": "Cobalt Pressure Plate",
+  "block.mccourse.cobalt_fence": "Cobalt Fence",
+  "block.mccourse.cobalt_fence_gate": "Cobalt Fence Gate",
+  "block.mccourse.cobalt_wall": "Cobalt Wall",
+  "block.mccourse.cherry_blossom_door": "Cherry Blossom Door",
+  "block.mccourse.cherry_blossom_trapdoor": "Cherry Blossom Trapdoor",
+  "item.mccourse.cobalt_sword": "Cobalt Sword",
+  "item.mccourse.cobalt_shovel": "Cobalt Shovel",
+  "item.mccourse.cobalt_axe": "Cobalt Axe",
+  "item.mccourse.cobalt_pickaxe": "Cobalt Pickaxe",
+  "item.mccourse.cobalt_hoe": "Cobalt Hoe",
+
+  "tooltip.block.speedy_block": "Feel the Speed!",
+
+
 
   "itemGroup.coursemodtab": "McCourse Mod",
   "item.mccourse.dowsing_rod.no_valuables": "No valuables found."
